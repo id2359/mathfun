@@ -1,0 +1,2 @@
+# mathfun
+Mathematica experiments
